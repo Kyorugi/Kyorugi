@@ -1,4 +1,15 @@
 ### Hi there, I'm Kamil 👋
+Languages and Tools:
+
+Visual Studio Code
+HTML5
+CSS3
+JavaScript
+TypeScript
+React
+Gatsby
+Next.js
+GraphQL
 
 <!--
 **Kyorugi/Kyorugi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
