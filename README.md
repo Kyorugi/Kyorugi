@@ -1,6 +1,6 @@
 ### Hi there, I'm Kamil 👋
 
-### My language and tools:
+### My languages and tools:
 ![icons8-vs-code-64](https://github.com/Kyorugi/Kyorugi/assets/112585563/cb9e1880-effe-4117-ad51-63f99f2b7058)
 ![icons8-git-64](https://github.com/Kyorugi/Kyorugi/assets/112585563/b720e68c-9fb6-419f-8bc7-e91199f145cc)
 ![icons8-html5-64](https://github.com/Kyorugi/Kyorugi/assets/112585563/4c2b1acb-65ad-485d-b8f8-3f774d164281)
