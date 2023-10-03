@@ -2,7 +2,8 @@
 
 ### My language and tools:
 ![icons8-javascript-64](https://github.com/Kyorugi/Kyorugi/assets/112585563/27dc0024-75a9-4130-b955-33e5b9b92d7a)
-![icons8-react-a-javascript-library-for-building-user-interfaces-24](https://github.com/Kyorugi/Kyorugi/assets/112585563/7184884e-f9f8-4ee9-b58f-c3363a4af4f1)
+![icons8-react-a-javascript-library-for-building-user-interfaces-96](https://github.com/Kyorugi/Kyorugi/assets/112585563/970587b8-d499-43cc-aa23-1c30a514e355)
+
 
 
 
