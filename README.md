@@ -1,8 +1,14 @@
 ### Hi there, I'm Kamil 👋
 
 ### My language and tools:
+![icons8-vs-code-64](https://github.com/Kyorugi/Kyorugi/assets/112585563/cb9e1880-effe-4117-ad51-63f99f2b7058)
+![icons8-git-64](https://github.com/Kyorugi/Kyorugi/assets/112585563/b720e68c-9fb6-419f-8bc7-e91199f145cc)
+![icons8-html5-64](https://github.com/Kyorugi/Kyorugi/assets/112585563/4c2b1acb-65ad-485d-b8f8-3f774d164281)
+![icons8-css-64](https://github.com/Kyorugi/Kyorugi/assets/112585563/698dac92-0920-4d86-b961-0c1ddc7f831d)
 ![icons8-javascript-64](https://github.com/Kyorugi/Kyorugi/assets/112585563/27dc0024-75a9-4130-b955-33e5b9b92d7a)
 ![icons8-react-a-javascript-library-for-building-user-interfaces-64](https://github.com/Kyorugi/Kyorugi/assets/112585563/fc07e39e-7802-40bc-8ad3-b04cc21fb2a2)
+![icons8-typescript-64](https://github.com/Kyorugi/Kyorugi/assets/112585563/a2fdde9b-ad93-4bb8-93ce-ae75bd23c893)
+
 
 
 
