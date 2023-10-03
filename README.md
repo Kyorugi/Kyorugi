@@ -2,8 +2,8 @@
 
 ### My language and tools:
 
-![icons8-javascript-64](https://github.com/Kyorugi/Kyorugi/assets/112585563/c199004b-8205-4375-9524-a52fd7ef851c)
-![react](https://github.com/Kyorugi/Kyorugi/assets/112585563/73f84375-a58a-4f1e-8195-1846d7c872e3)
+![icons8-javascript-64](https://github.com/Kyorugi/Kyorugi/assets/112585563/c199004b-8205-4375-9524-a52fd7ef851c), ![react](https://github.com/Kyorugi/Kyorugi/assets/112585563/73f84375-a58a-4f1e-8195-1846d7c872e3)
+
 
 
 
