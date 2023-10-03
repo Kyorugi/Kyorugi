@@ -1,8 +1,8 @@
 ### Hi there, I'm Kamil 👋
 
 ### My language and tools:
-![icons8-javascript](https://github.com/Kyorugi/Kyorugi/assets/112585563/fbaede3b-e223-470c-8be2-0e36abf9c0ba)
-![icons8-react-a-javascript-library-for-building-user-interfaces-24](https://github.com/Kyorugi/Kyorugi/assets/112585563/886bd53b-b45c-4adc-b815-e4869bcb816f)
+https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png
+
 
 
 
