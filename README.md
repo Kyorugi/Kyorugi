@@ -9,8 +9,8 @@
 ![icons8-react-a-javascript-library-for-building-user-interfaces-64](https://github.com/Kyorugi/Kyorugi/assets/112585563/fc07e39e-7802-40bc-8ad3-b04cc21fb2a2)
 ![icons8-typescript-64](https://github.com/Kyorugi/Kyorugi/assets/112585563/a2fdde9b-ad93-4bb8-93ce-ae75bd23c893)
 
-### Feel free to contact me: kamil.chwesiuk@gmail.com
-
+### Feel free to contact me: 
+kamil.chwesiuk@gmail.com
 
 
 
